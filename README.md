@@ -65,7 +65,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.placeholder.com" data-type="link" data-id="www.placeholder.com">Unleashing the Future: Discover Microsoft's New AI-Powered Browser</a></p>
+<p><a href="https://sway.cloud.microsoft/jawHa5Uums3nJQCI?ref=Link" data-type="link" data-id="https://sway.cloud.microsoft/jawHa5Uums3nJQCI?ref=Link">Unleashing the Future: Discover Microsoft's New AI-Powered Browser</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"8px","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
