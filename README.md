@@ -68,6 +68,10 @@
 <p><a href="https://sway.cloud.microsoft/jawHa5Uums3nJQCI?ref=Link" data-type="link" data-id="https://sway.cloud.microsoft/jawHa5Uums3nJQCI?ref=Link">Unleashing the Future: Discover Microsoft's New AI-Powered Browser</a></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p><a href="https://sway.cloud.microsoft/mJXlVRCfuRWls6Cj?ref=Link" data-type="link" data-id="https://sway.cloud.microsoft/mJXlVRCfuRWls6Cj?ref=Link">Embracing AI in Small and Medium-Sized Businesses</a></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:spacer {"height":"8px","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
 <div style="margin-top:0;margin-bottom:0;height:8px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
